@@ -1,5 +1,5 @@
 .background {
-    background-image: url("conference.jpg");
+    background-image: url("./conference.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 0;
