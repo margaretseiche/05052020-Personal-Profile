@@ -1,0 +1,81 @@
+.background {
+    background-image: url("conference.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: auto 0;
+    height: 600px;
+}
+
+body {
+    font: Georgia,"Times New Roman",Times,serif;
+    color: #333333;
+    padding: 0;
+    padding-left: 0;
+    padding-top: 0;
+    margin: 0;
+    background-size: cover;
+}
+
+.header {
+    background-color: rgb(52, 7, 175);
+    color: rgb(235, 233, 233);
+    font-size: 28px;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 5px;
+    width: 925px;
+    height: 38px;
+}
+
+.container {
+    background-color: #efeee7;
+    padding-top: 0;
+    width: 930px;
+    height: 175px;
+}
+
+h1 {
+    color: rgb(235, 233, 233);
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 0 auto;
+    color: rgb(52, 7, 175);
+    text-align: center;
+}
+
+#intro {
+    float: left;
+    padding-left: 5px;
+    margin-right: 25px;
+    width: 20%;
+    text-align: center;
+}  
+
+#main-bio {
+    float: left;
+    margin-right: 10px;
+    margin-top: 0;
+    width: 40%;
+}  
+
+#contact-info {
+    float: left;
+    width: 31%;
+    line-height: 1.5;
+}  
+
+a {
+  color: #d21034;  
+}
+
+#bio-image {
+    float: left;
+    margin-right: 20px;
+    width: 200px;
+}    
+
+    
